@@ -12,7 +12,7 @@ class Student {
             s1.sec = 004;
 
 
-            System.out.println(s1.roll + " " + s1.name + " " + s1.sec);
+           
 
         }
     }
